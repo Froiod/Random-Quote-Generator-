@@ -1,2 +1,2 @@
 # Random-Quote-Generator
-A mini JS projects that generate random quote for every click.
+A mini JS project that generates random quotes for every click.
